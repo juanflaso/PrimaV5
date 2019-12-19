@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"test_package","c":"PRIMAv5","l":"getPrima(int, double)","url":"getPrima(int,double)"},{"p":"test_package","c":"PRIMAv5","l":"PRIMAv5()","url":"%3Cinit%3E()"}]
