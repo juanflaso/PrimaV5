@@ -24,5 +24,12 @@ public class PRIMAv5Test {
 		PRIMAv5.getPrima(91, 30);
 		PRIMAv5.getPrima(30, 30);
 	}
+	
+	@Test
+	public void testGetPrima2() {
+		PRIMAv5 prima = new PRIMAv5();
+		PRIMAv5.getPrima(20, 28);
+
+	}
 
 }
