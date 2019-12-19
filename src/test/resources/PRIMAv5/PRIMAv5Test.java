@@ -29,7 +29,6 @@ public class PRIMAv5Test {
 	public void testGetPrima2() {
 		PRIMAv5 prima = new PRIMAv5();
 		PRIMAv5.getPrima(20, 28);
-
 	}
 
 }
