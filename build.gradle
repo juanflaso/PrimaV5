@@ -36,3 +36,16 @@ application {
     mainClassName = 'PRIMAv5.App'
 }
 
+sourceSets {
+  main {
+    java {
+      srcDir 'src'
+    }
+  }
+  test {
+  	java {
+  		srcDir 'test
+  	}
+  }
+}
+
